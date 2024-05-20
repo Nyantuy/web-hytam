@@ -1,0 +1,12 @@
+{
+  "name": "web-hytam",
+  "version": "0.0.0-1",
+  "description": "Web Warung Hytam",
+  "main": "index.js",
+  "author": "FaizBastomi <64179402+FaizBastomi@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^4"
+  }
+}
