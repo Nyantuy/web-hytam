@@ -17,12 +17,11 @@ export default function Home() {
           <p className={`${plusJakartaSans.className} md:text-lg lg:text-2xl font-semibold text-justify`}>
             We are group of professional peoples who are working in the field of cutting edge technology and inventing new things.
             Even though we are small group of people, we are working on big projects and we are always looking for new talents to join us.
-            If you are interested in joining us, please contact us.
           </p>
           <br />
-          <button className="text-xs md:text-base font-semibold p-2 border border-[#006600] hover:border-[#33ff33]">
+          {/* <button className="text-xs md:text-base font-semibold p-2 border border-[#006600] hover:border-[#33ff33]">
             Contact Us
-          </button>
+          </button> */}
         </div>
       </Hero>
     </main>
